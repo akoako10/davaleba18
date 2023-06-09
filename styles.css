@@ -1,0 +1,55 @@
+body { 
+    margin: 0px;
+    background-color: antiquewhite;
+    
+}
+
+
+
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+    color: purple;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+
+#activity {
+    display: flex;
+    flex-direction: column;
+    transform: translateX(45%);
+    font-size: 30px;
+    
+
+
+}
+
+
+.sia {
+    background-color: aquamarine;
+    margin-top: 0px;
+}
+.text {
+background-color: blueviolet;
+padding: 30px;
+}
+
+.text input {
+    width: 50%;
+    height: 30px;
+    transform: translateX(20%);
+    
+
+}
+.text button {
+    width: 10%;
+    height: 34px;
+    transform: translateX(130%);
+
+    
+}
